@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/four-card-section-using-flexbox-BsNxVPZKZN
+- Live Site URL: https://vcalvo25.github.io/TechAI/
 
 ## My process
 
@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) - This was a super fun and entertaining game that helped me learn the different CSS commands for Flexbox, I highly reccommend it to hone your skills!
+- Flexbox Zombies (https://flexboxzombies.com/p/flexbox-zombies) - This was a super fun and entertaining game that helped me learn the different CSS commands for Flexbox, I highly reccommend it to hone your skills!
 
 ## Author
 
